@@ -6,4 +6,7 @@ please
 setting up the new file
 please 
 working on the github
+<<<<<<< HEAD
 working on server
+=======
+>>>>>>> 00d142ae09fe5812f670bcc79a6f65a065eaef18
